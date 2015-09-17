@@ -1,3 +1,6 @@
+#MongoDB University Blog
+This is the practice webpage blog did using the MongoDB University to familiarize oneself with MongoDB and NodeJS
+
 Blog project for M101JS
 
 ./app.js - entry point
